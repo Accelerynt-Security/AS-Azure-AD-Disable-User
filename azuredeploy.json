@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "metadata": {
         "title": "AS-Azure-AD-Disable-User", 
-        "description": "This playbook is intended to be run from a Microsoft Sentinel incident. It will disable the Azure AD user accounts associated with the accounts from Microsoft Sentinel incidents.",
+        "description": "This playbook is intended to be run from a Microsoft Sentinel incident. It will disable the Azure AD user accounts associated with the entities from Microsoft Sentinel incidents.",
         "lastUpdateTime": "2022-10-17T18:18:05Z",
         "entities": ["Account"], 
         "tags": ["Microsoft Sentinel", "Incident", "Azure Active Directory", "Disable User"], 
