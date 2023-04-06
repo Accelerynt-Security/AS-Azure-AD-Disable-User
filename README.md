@@ -27,7 +27,7 @@ Click the “**Deploy to Azure**” button at the bottom and it will bring you t
 
 In the **Project Details** section:
 
-* Select the “**Subscription**” and “**Resource Disable_User**” from the dropdown boxes you would like the playbook deployed to.  
+* Select the “**Subscription**” and “**Resource Group**” from the dropdown boxes you would like the playbook deployed to.  
 
 In the **Instance Details** section:  
                                                   
