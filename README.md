@@ -25,15 +25,15 @@ https://github.com/Accelerynt-Security/AS-Azure-AD-Disable-User
 
 Click the “**Deploy to Azure**” button at the bottom and it will bring you to the custom deployment template.
 
-In the **Project Details** section:
+In the **Project details** section:
 
-* Select the “**Subscription**” and “**Resource Group**” from the dropdown boxes you would like the playbook deployed to.  
+* Select the **Subscription** and **Resource group** from the dropdown boxes you would like the playbook deployed to.  
 
-In the **Instance Details** section:  
+In the **Instance details** section:  
                                                   
 * **Playbook Name**: This can be left as "**AS-Azure-AD-Disable-User**" or you may change it. 
 
-Towards the bottom, click on “**Review + create**”. 
+Towards the bottom, click on "**Review + create**". 
 
 ![Azure_AD_Disable_User_Deploy_1](Images/Azure_AD_Disable_User_Deploy_1.png)
 
@@ -46,7 +46,7 @@ Click the one corresponding to the Logic App.
 
 ![Azure_AD_Disable_User_Deploy_3](Images/Azure_AD_Disable_User_Deploy_3.png)
 
-Click on the “**Edit**” button. This will bring us into the Logic Apps Designer.
+Click on the "**Edit**" button. This will bring us into the Logic Apps Designer.
 
 ![Azure_AD_Disable_User_Deploy_4](Images/Azure_AD_Disable_User_Deploy_4.png)
 
