@@ -8,7 +8,7 @@
         "entities": ["Account"], 
         "tags": ["Microsoft Sentinel", "Incident", "Azure Active Directory", "Disable User"], 
         "support": {
-            "tier": "developer"
+            "tier": "partner"
         },
         "author": {
             "name": "Accelerynt"
